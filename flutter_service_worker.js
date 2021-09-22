@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "6f34cc6c40b2151dfad7ba557f3bf0c5",
+  "assets/AssetManifest.json": "c5fe64cd9df80ccc333c0dc669244866",
 "assets/assets/Diploma.pdf": "7a515b4acc7c37e57f3639dbdbde73b8",
 "assets/assets/loader-git.gif": "0724884440e8ddd0896ff557b75a222a",
 "assets/assets/loader.gif": "74b84c61dc457547ce5c674e0ef82c19",
+"assets/assets/no-image-profile.jpeg": "c950a2af0defb5655736cffa6773b72b",
 "assets/assets/no-image.jpg": "a210d1794c8aeaf9762d5abde0ae360b",
 "assets/assets/roche-lo.png": "dced8a0bc35f3d0a544b3639c7b4873d",
 "assets/assets/roche-logo-blue.png": "1569849457876b3d779032a632b19c7d",
@@ -22,7 +23,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "7a18b6505282c708cd8f7f0749923c4a",
 "/": "7a18b6505282c708cd8f7f0749923c4a",
-"main.dart.js": "f471ff58592bb7affc6cf539b924d368",
+"main.dart.js": "fbc966193b29242e36420ce6a67b2ea5",
 "manifest.json": "6e1f439bd106614e711278987f669fbf",
 "version.json": "e390dd39dd8a015b37bced15283ad9e9"
 };

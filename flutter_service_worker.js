@@ -16,14 +16,14 @@ const RESOURCES = {
 "assets/assets/roche-logo.png": "ce8724352e52974a9f96e0fc8e7271a4",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "d42f46a14123bef7f84a5796f5f25de5",
+"assets/NOTICES": "9b6d4cfc638db0e7aa32c5552ad1da56",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "7a18b6505282c708cd8f7f0749923c4a",
 "/": "7a18b6505282c708cd8f7f0749923c4a",
-"main.dart.js": "f51f7286bab557cc7db54c0e936b8dea",
+"main.dart.js": "3af4ff1241ccfe3023e63533343a6f5d",
 "manifest.json": "6e1f439bd106614e711278987f669fbf",
 "version.json": "e390dd39dd8a015b37bced15283ad9e9"
 };
